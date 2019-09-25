@@ -23,9 +23,11 @@ GETTING START WITH REACT JS
  Absolute Basics of Creating Reusable Components.
     - Tạo một component nói sơ về Khái Niệm Component 
     - Cho các bạn tự tạo một component chơi cho vui
+    - In practice, most React apps only call ReactDOM.render() once. I
+    In our experience, thinking about how the UI should look at any given moment rather than how to change it over time eliminates a whole class of bugs.
 
  Create React App.
     Cho các bạn tự tạo reactjs app rồi làm một bài tập nho nhỏ
  Hello World.
-    
+
  Hello World Component.
